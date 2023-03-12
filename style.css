@@ -101,7 +101,7 @@ body {
   animation: zoomIn 1s ease forwards, floatImage 4s ease-in-out infinite;
   animation-delay: 2s, 3s;
   border-radius: 50%;
-  background: url(./img/avatar972195361__1_-removebg-preview\ \(1\).png);
+  
 }
 .social-media a {
   display: inline-flex;
